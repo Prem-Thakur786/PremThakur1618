@@ -35,13 +35,13 @@ cd portfolio
 
 ## Deployment
 
-This site is deployed on Vercel. You can visit it at [https://premchand786.netlify.app](https://premchand786.netlify.app)
+This site is deployed on Vercel. You can visit it at [https://premchand786.netlify.app](https://prem-thakur1618.vercel.app/)
 
 ## Contact
 
 - Email: pc908652@gmail.com
-- LinkedIn: [Prem Chand](https://www.linkedin.com/in/prem-chand-411aab211/)
-- GitHub: [premthakur](https://github.com/Prem-Thakur786)
+- LinkedIn: [Prem Thakur](https://www.linkedin.com/in/prem-chand-411aab211/)
+- GitHub: [Prem Thakur](https://github.com/Prem-Thakur786)
 
 ## License
 
