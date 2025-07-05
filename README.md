@@ -41,7 +41,7 @@ This site is deployed on Vercel. You can visit it at [https://premchand786.netli
 
 - Email: pc908652@gmail.com
 - LinkedIn: [Prem Chand](https://www.linkedin.com/in/prem-chand-411aab211/)
-- GitHub: [premthakur](https://github.com/premthakur)
+- GitHub: [premthakur](https://github.com/Prem-Thakur786)
 
 ## License
 
