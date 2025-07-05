@@ -35,7 +35,7 @@ cd portfolio
 
 ## Deployment
 
-This site is deployed on Vercel. You can visit it at [https://premchand786.netlify.app](https://prem-thakur1618.vercel.app/)
+This site is deployed on Vercel. You can visit it at [https://prem-thakur1618.vercel.app](https://prem-thakur1618.vercel.app/)
 
 ## Contact
 
