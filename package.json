@@ -1,0 +1,25 @@
+{
+  "name": "prem-thakur-portfolio",
+  "version": "1.0.0",
+  "description": "Prem Thakur's Frontend Developer Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve .",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "developer",
+    "web",
+    "design"
+  ],
+  "author": "Prem Thakur",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "tailwindcss": "^4.1.11"
+  }
+}
